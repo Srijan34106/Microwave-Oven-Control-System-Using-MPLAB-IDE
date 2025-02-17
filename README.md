@@ -15,3 +15,5 @@ Technologies Used:
 -> Embedded C – Firmware written for real-time operations.
 
 This project demonstrates real-world embedded system applications, particularly in home appliances. It showcases microcontroller-based control, sensor integration, and user interaction, making it an ideal learning project for embedded systems enthusiasts.
+
+The header files and .C files source code are provided. The Xc8 compiler is to compile the .C files and the header files to Hex file which is required by the simulation lab to run the project. 
